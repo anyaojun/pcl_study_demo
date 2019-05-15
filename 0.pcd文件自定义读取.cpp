@@ -97,7 +97,7 @@ void readPCDfile(const std::string finname, std::vector<PointXYZ>& points, const
 }
 
 
-int main0()
+int main()
 {
 	std::string finname = "ascii_pcd.pcd";
 	std::string foutame = "ascii_pcd.txt";
